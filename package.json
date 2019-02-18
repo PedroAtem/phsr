@@ -1,0 +1,28 @@
+{
+  "name": "phsr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroAtem/phsr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroAtem/phsr/issues"
+  },
+  "homepage": "https://github.com/PedroAtem/phsr#readme",
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.3"
+  }
+}

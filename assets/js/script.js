@@ -1,3 +1,3 @@
-(function() {
-    console.log("HELLO");
-})();
+document.addEventListener("DOMContentLoaded", function(event) { 
+    initCube();
+});

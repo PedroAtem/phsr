@@ -4,9 +4,9 @@
 */
 .flip-card {
     background-color: transparent;
-    width: 100px;
-    height: 100px;
-    border: 1px solid #f1f1f1;
+    width: calc((100% / 3) - 10px);
+    margin-bottom: 10px;
+    height: calc((100vh - 110px) / 2);
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 

@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background: #c4c4c4;
+    height: 80px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: left;
+    padding: 10px;
+}
